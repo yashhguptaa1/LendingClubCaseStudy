@@ -1,6 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
-
+# Lending Club Case Study
+>  The consumer finance company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -12,37 +11,36 @@
 
 ## General Information
 - Provide general information about your project here.
+  - This is a risk analysis project 
 - What is the background of your project?
+  - Project belongs to financial banking sector 
 - What is the business probem that your project is trying to solve?
+  - Find whether an applicant should be issued loan or not
 - What is the dataset that is being used?
+  - loan.csv dataset provided by the company
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Conclusion 1 : Applications of low grade level should be avoided or should be given low priority.
+- Conclusion 2 : Applicants with annual income of 40,000 USD or less should be given loan at interest rate lower than 10%.
+- Conclusion 3 : People from state of California or Florida should be given loan only after thorough verification.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- python - version 3.0
+- pandas - version 1.3.5
+- numpy - version 1.21.5
+- seaborn - version 0.11.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- I would like to thank IIIT Bangalore professors as they gave us this wonderful opportunity to work on business oriented problem.
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@yashhguptaa1] and [@RameshKrishnachari] - feel free to contact me!
 
 
 <!-- Optional -->
